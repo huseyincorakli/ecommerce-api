@@ -1,1 +1,1 @@
-(Frontend)[https://github.com/huseyincorakli/ecommerce-client]
+[Frontend Source Code](https://github.com/huseyincorakli/ecommerce-client)
